@@ -1,0 +1,19 @@
+# Python
+
+.venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+
+.env
+
+# Runtime chat history
+
+database/chat_history.db
+database/chat_history.db-shm
+database/chat_history.db-wal
+
+# Streamlit secrets
+
+.streamlit/secrets.toml
